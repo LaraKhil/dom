@@ -1,0 +1,15 @@
+
+h1{
+    background-color: rgb(80, 102, 80);
+};
+section{
+    background-color: rgb(136, 54, 54);
+};
+
+div{
+    width:10px;
+};
+
+button{
+    color: yellow;
+}
